@@ -10,6 +10,7 @@ itsdangerous==2.0.1
 Jinja2==3.0.2
 MarkupSafe==2.0.1
 nodeenv==1.6.0
+pkg_resources==0.0.0
 platformdirs==2.4.0
 pre-commit==2.15.0
 PyYAML==5.4.1
